@@ -1,0 +1,11 @@
+.titulo{
+    display: flex;
+    /* justify-content: center; */
+    position: relative;
+}
+
+.R{
+    position: absolute;
+    top: 10PX;
+    left: 100px;
+}
